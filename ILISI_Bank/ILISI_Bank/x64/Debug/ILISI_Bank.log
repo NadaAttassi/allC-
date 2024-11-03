@@ -1,0 +1,7 @@
+﻿  Account.cpp
+  Current_Account.cpp
+  HistoryTransactions.cpp
+  ILISI_Bank.cpp
+C:\Users\bouch\source\repos\ILISI_Bank\ILISI_Bank.cpp(19,24): warning C4101: 'A3' : variable locale non référencée
+  Génération de code en cours...
+  ILISI_Bank.vcxproj -> C:\Users\bouch\source\repos\ILISI_Bank\x64\Debug\ILISI_Bank.exe
