@@ -1,0 +1,6 @@
+﻿  Complexe.cpp
+  Exercice1Tp1.cpp
+  Génération de code en cours...
+C:\Users\H P\source\repos\Exercice1Tp1\Exercice1Tp1\Complexe.cpp(65,1): warning C4715: 'Complexe::operator/' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\H P\source\repos\Exercice1Tp1\Exercice1Tp1\Complexe.cpp(74,1): warning C4715: 'Complexe::operator/' : les chemins de contrôle ne retournent pas tous une valeur
+  Exercice1Tp1.vcxproj -> C:\Users\H P\source\repos\Exercice1Tp1\Exercice1Tp1\x64\Debug\Exercice1Tp1.exe
