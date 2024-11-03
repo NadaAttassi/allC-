@@ -1,0 +1,4 @@
+﻿  Vehicule.cpp
+C:\Users\H P\source\repos\1ere class\1ere class\Vehicule.h(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\H P\source\repos\1ere class\1ere class\Vehicule.cpp(5,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  1ere class.vcxproj -> C:\Users\H P\source\repos\1ere class\x64\Debug\1ere class.exe
